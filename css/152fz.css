@@ -1,0 +1,47 @@
+.border-feedback {
+	display: inline-block;
+	border: 1px solid #d5d5d5;
+    padding: 8px 10px 10px;
+	margin: 10px 0;
+}
+/*
+.border-feedback {
+    display: inline-block;
+    margin: 10px 0 5px;
+    padding: 0 0 0 7px;
+}
+*/
+.border-feedback small,
+.no-border-feedback small {
+    margin-left: 5px;
+}
+.border-feedback a {
+    text-decoration: underline;
+}
+.border-feedback a:focus, .border-feedback a:hover {
+    text-decoration: none;
+}
+.blog-post-buttons .border-feedback {
+	padding: 5px 10px 10px;
+}
+@media (min-width: 992px) {
+	.blog-post-buttons .border-feedback {
+		margin-top: 0;
+	}
+}
+.eshop-product-body .border-feedback {
+	margin-top: 0;
+	border: medium none;
+	padding: 2px 3px 0;
+}
+.no-border-feedback {
+	margin-bottom: 10px;
+	border: medium none;
+	padding: 0 3px 5px;
+}
+#comments .border-feedback,
+.comments-form .border-feedback {
+    /*border: medium none;
+    padding: 0 3px;*/   
+    margin-bottom: 0;
+}

@@ -1,0 +1,16 @@
+
+
+/* Start:/local/templates/s1_main_sphinx_sergeland/components/bitrix/catalog.section/icons/style.css?1528108382220*/
+#section-features .round {
+    border-radius: 50%;
+    height: 90px;
+    margin: 0 auto;
+    overflow: hidden;
+    vertical-align: middle;
+    width: 90px;
+}
+#section-features .feature:hover .round {
+	border:2px solid;
+}
+/* End */
+/* /local/templates/s1_main_sphinx_sergeland/components/bitrix/catalog.section/icons/style.css?1528108382220 */
