@@ -35,11 +35,20 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="addition.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="addition.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/addition.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="383">
                   <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
                 </state>
               </provider>
             </entry>
@@ -58,6 +67,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/addition.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -125,12 +135,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528206788730</updated>
       <workItem from="1528206799362" duration="2000" />
-      <workItem from="1528206975608" duration="1990000" />
+      <workItem from="1528206975608" duration="2075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1992000" />
+    <option name="totallyTimeSpent" value="2077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -184,6 +194,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
           <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
